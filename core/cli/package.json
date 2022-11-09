@@ -1,5 +1,5 @@
 {
-  "name": "@sade-cli-dev/cli",
+  "name": "@sade-cli-dev/core",
   "version": "1.0.2",
   "description": "sade-cli-dev core",
   "author": "devinQing",
@@ -28,5 +28,5 @@
     "downgrade-root": "^1.2.2",
     "import-local": "^3.1.0"
   },
-  "gitHead": "2947edf12f1d5f209323cb20f0e9b3982fa62040"
+  "gitHead": "c93c2607b9ca7fef068985e8d1db5db5a3608e1d"
 }
