@@ -1,6 +1,6 @@
 {
   "name": "@sade-cli-dev/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sade-cli-dev core",
   "author": "devinQing",
   "homepage": "",
@@ -20,8 +20,8 @@
     "test": "node ./__tests__/cli.test.js"
   },
   "dependencies": {
-    "@sade-cli-dev/get-npm-info": "^1.0.1",
-    "@sade-cli-dev/log": "^1.0.1",
+    "@sade-cli-dev/get-npm-info": "^1.0.2",
+    "@sade-cli-dev/log": "^1.0.2",
     "colors": "^1.4.0",
     "compare-versions": "^5.0.1",
     "dotenv": "^16.0.3",
