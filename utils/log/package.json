@@ -1,6 +1,6 @@
 {
   "name": "@sade-cli-dev/log",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "log utils",
   "keywords": [
     "log",
@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "npmlog": "^7.0.1"
-  }
+  },
+  "gitHead": "a9b3488ff4e9cb7d98ef1f75f21a45068b292449"
 }

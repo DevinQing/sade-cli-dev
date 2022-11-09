@@ -2,9 +2,11 @@
   "packages": [
     "core/*",
     "commands/*",
-    "core/*",
-    "models/*"
+    "models/*",
+    "utils/*"
   ],
-  "version": "1.0.1",
-  "useWorkspaces": true
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "useNx": true,
+  "useWorkspaces": true,
+  "version": "1.0.3"
 }
