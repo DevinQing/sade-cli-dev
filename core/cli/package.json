@@ -20,12 +20,13 @@
     "test": "node ./__tests__/cli.test.js"
   },
   "dependencies": {
-    "@sade-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
-    "@sade-cli-dev/log": "file:../../utils/log",
+    "@sade-cli-dev/get-npm-info": "^1.0.1",
+    "@sade-cli-dev/log": "^1.0.1",
     "colors": "^1.4.0",
     "compare-versions": "^5.0.1",
     "dotenv": "^16.0.3",
     "downgrade-root": "^1.2.2",
     "import-local": "^3.1.0"
-  }
+  },
+  "gitHead": "2947edf12f1d5f209323cb20f0e9b3982fa62040"
 }
